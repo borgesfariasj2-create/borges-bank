@@ -45,7 +45,7 @@ borges-bank/
 1. Clone the repository:
 
 ```
-git clone https://github.com/YOUR-USERNAME/borges-bank.git
+git clone https://github.com/borgesfariasj2-create/borges-bank.git
 ```
 
 2. Open the project in IntelliJ IDEA
